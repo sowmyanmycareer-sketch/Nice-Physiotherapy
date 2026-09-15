@@ -1,0 +1,6 @@
+{
+  "name": "Dr Nice Physiotherapy Centre",
+  "description": "Best Physiotherapist in Bengaluru - Dr Nice Physiotherapy Centre featuring interactive 3D spine and joint biomechanics visualizer, Gemini 3.5 AI rehabilitation assistant, patient reviews, and clinic appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
